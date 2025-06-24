@@ -1,0 +1,12 @@
+baseURL = 'https://alasutoru.github.io/me/'
+languageCode = 'en-us'
+title = 'alasutoru'
+theme = 'notrack'
+
+[params]
+author = 'alasutoru'
+# optional, defaults to author:
+siteHeading = 'alasutoru'
+mainSections = ['blog']
+[sitemap]
+  changeFreq = 'hourly'
