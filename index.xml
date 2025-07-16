@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>alasutoru</title>
-        <link>http://localhost:1313/me/</link>
+        <link>https://alasutoru.github.io/me/</link>
         <description>Latest blog posts from alasutoru</description>
 
         
@@ -20,17 +20,17 @@
         
 
         
-        <atom:link href="http://localhost:1313/me/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://alasutoru.github.io/me/index.xml" rel="self" type="application/rss+xml" />
         
 
         
             
         <item>
           <title>第六：巡查</title>
-          <link>http://localhost:1313/me/blog/250713/</link>
+          <link>https://alasutoru.github.io/me/blog/250713/</link>
           <pubDate>Sun, 13 Jul 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250713/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250713/</guid>
           <description>這次的任務由我與一位長髮的女隊員同行，
 她的代號是——LI。
 巡查途中，
@@ -63,10 +63,10 @@
             
         <item>
           <title>第四天：密令</title>
-          <link>http://localhost:1313/me/blog/250710/</link>
+          <link>https://alasutoru.github.io/me/blog/250710/</link>
           <pubDate>Thu, 10 Jul 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250710/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250710/</guid>
           <description>任務開始。
 今日場地上，聚集來自世界不同的小組，
 每組打扮都極其神秘，像是從異次元而來的兵團。
@@ -115,10 +115,10 @@
             
         <item>
           <title>第三：整裝出發</title>
-          <link>http://localhost:1313/me/blog/250709/</link>
+          <link>https://alasutoru.github.io/me/blog/250709/</link>
           <pubDate>Wed, 09 Jul 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250709/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250709/</guid>
           <description>白日，
 召集展開。
 我站在中央，
@@ -140,10 +140,10 @@
             
         <item>
           <title>第二：天災資料庫之預所</title>
-          <link>http://localhost:1313/me/blog/250708/</link>
+          <link>https://alasutoru.github.io/me/blog/250708/</link>
           <pubDate>Tue, 08 Jul 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250708/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250708/</guid>
           <description>那是一個充滿異生物與階級編制的區域，
 到處都有怪物，
 每一隻，都標註著清晰的等級。
@@ -180,10 +180,10 @@
             
         <item>
           <title>第一印：雲中八符</title>
-          <link>http://localhost:1313/me/blog/250706/</link>
+          <link>https://alasutoru.github.io/me/blog/250706/</link>
           <pubDate>Sun, 06 Jul 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250706/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250706/</guid>
           <description>從浮動的雲層中降落
 雲中之力從四方聚集給予指引 將意識導向 查探！問題潛伏在此地周圍 被託付前往查明異象 從高處降下八個懸浮圖像 天空出現八個懸浮圖像就是那些點位 以綠色為主調 各自對應座標 排列成圖騰陣列 是這次調查的八個點位
 下午兩點五十分 意識再次被拉回相同的夢境 接續著
@@ -207,10 +207,10 @@
             
         <item>
           <title>為什麼衰事會來</title>
-          <link>http://localhost:1313/me/blog/250701/</link>
+          <link>https://alasutoru.github.io/me/blog/250701/</link>
           <pubDate>Tue, 01 Jul 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250701/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250701/</guid>
           <description>需要先了解：
 你是你自己事物真實樣貌的創造者 ◦ 生命會依照你所認為的樣子展現給你。
 ◦ 你的思維、言語和行動會將你所認為的具體化，並帶入你的體驗中。
@@ -240,20 +240,20 @@
             
         <item>
           <title>讀心術</title>
-          <link>http://localhost:1313/me/blog/250601/</link>
+          <link>https://alasutoru.github.io/me/blog/250601/</link>
           <pubDate>Sun, 01 Jun 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250601/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250601/</guid>
           <description>這能力算是很容易在人的身上得到 但又不容易做到
 當我們看一個人的時候 或是第一眼時 心裡會有個想法不管好壞 當有這把尺時 就無法跟人的心建立連線 這個對人的標準就是妨礙讀心的部分 所以待人或是看人 沒有差別心的時候 所有人都是一樣 心靜調成這樣 就可以聽得到對方心裡的聲音 為什麼我會知道 因為我就是做到的那個 也不用擔心內心想法被聽到 因為能聽得到的這種人 就是可以當你好友的人</description>
         </item>
             
         <item>
           <title>什麼是夢？</title>
-          <link>http://localhost:1313/me/blog/250501/</link>
+          <link>https://alasutoru.github.io/me/blog/250501/</link>
           <pubDate>Thu, 01 May 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250501/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250501/</guid>
           <description>夢是一種進入非物質狀態的方式： 人類在睡夢中，能夠進入一種非物質的狀態。 這種狀態與高度演化生命能夠輕易在物質和非物質形態之間轉換的方式類似。
 睡眠是靈魂離開身體的時刻： 睡眠被解釋為靈魂離開肉體的時刻。 這並非因為肉體需要休息，而是因為靈魂渴望休息，進而使身體進入睡眠狀態。 靈魂每天都會這樣做，不斷地離開肉體。
 靈魂離開身體的目的： 靈魂在睡眠中離開身體是為了回復能量、加油。 當靈魂覺得在肉體中感到受限制、沉重、缺乏自由時，它會選擇離開。 這種離開是為了讓靈魂從「非真之理、不實之相和想像出來的危險」中尋求再連接、再肯定、休息與覺醒。 靈魂本身是輕盈與自由、和平與喜悅、無限制與無痛苦、完美的智慧與完美的愛。 它渴望重新品嘗這種狀態，因為在與身體共處時，它很少能完全體驗到這些。
@@ -262,10 +262,10 @@
             
         <item>
           <title>如何跟神溝通</title>
-          <link>http://localhost:1313/me/blog/250401/</link>
+          <link>https://alasutoru.github.io/me/blog/250401/</link>
           <pubDate>Tue, 01 Apr 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250401/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250401/</guid>
           <description>從小我就很好猜到對方心裡想法，容易跟大家當知心朋友，也聽了不少秘密， 然後小時候也會聽到有人在跟我講話，教我很多東西，後來看了書才知道， 神一直都在跟我說話，都以為是自己心裡的聲音， 並不是我特殊，每個人都可以，只是我比較快做到這些條件：
 • 神並非只對特定的人說話，而是會用多種方式，透過生活來到你的生命，對每一個人說話。 不論好壞，神會不停地傳送訊息，只要你有心真正聆聽，就不會錯過，但聽到後就無法忽略。
 • 神會以各種形式傳送訊息，在任何不同的時刻。 這些訊息可能透過你的想像力來運作，因為神可以像透過任何其他方式，透過你的想像力運作。 神也會透過那寂靜的小聲音，引導你知道該轉向何路、如何回答、如何行為、說什麼話。 你的感受是靈魂的語言，而靈魂是你接收生命中最微妙振動的器官。
@@ -280,10 +280,10 @@
             
         <item>
           <title>夢境警示：神靈降世之謎</title>
-          <link>http://localhost:1313/me/blog/250318/</link>
+          <link>https://alasutoru.github.io/me/blog/250318/</link>
           <pubDate>Tue, 18 Mar 2025 23:21:09 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250318/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250318/</guid>
           <description>午夜兩點，寒意襲來，從夢中驚醒。 夢中彷彿遊蕩於另一個時空，夜幕低垂，霓虹閃爍， 我卻與這一切格格不入。 最終，我來到一所寂靜的小學難著遊玩的孩子， 神秘的聲音在耳邊迴盪：「失去三牙，才能回到屬於你的世界。」
 夢境是潛意識的低語，靈魂的深處。 只有當我們超越世俗認知，才能解讀夢境真正含義。
 這夢是一個來自更高維度的警示： 歸來的神靈越多，但願意降臨地球的神祇卻沒有。 地球正處於前所未有的危機中， 只有神祇的降臨，才能穩固這個世界的平衡。 至於危機的根源，相信每個人心中都有答案。 人類不願意自救，又怎能期望神祇的拯救？</description>
@@ -291,20 +291,20 @@
             
         <item>
           <title>窺時之眼：遺忘過往的重現</title>
-          <link>http://localhost:1313/me/blog/250319/</link>
+          <link>https://alasutoru.github.io/me/blog/250319/</link>
           <pubDate>Tue, 18 Mar 2025 23:21:09 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250319/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250319/</guid>
           <description>晚上，一件不屬於此時此地的物件，悄然現身於桌上。試圖尋找它的來歷，卻彷彿墜入迷霧，無人能解。 當我的目光觸及某個特定的角落，一股莫名的力量湧上心頭，時空的界線開始模糊。過往的景象浮現與眼前空間重疊。我窺見了！
 我輕聲敘述那段經歷，當事人震驚地睜大了雙眼。驚異於我如何知曉那段早已遺忘的過往，彷彿我擁有窺視時間的能力。 我只是微微一笑，以一句模糊的說辭，掩蓋了那份不屬於凡塵的力量，那份能夠回溯時光的神秘能力。</description>
         </item>
             
         <item>
           <title>第五：召喚地</title>
-          <link>http://localhost:1313/me/blog/250711/</link>
+          <link>https://alasutoru.github.io/me/blog/250711/</link>
           <pubDate>Tue, 18 Mar 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250711/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250711/</guid>
           <description>空間裂開，
 黃金數字「7」懸浮其中，
 一種「時刻的召喚」。
@@ -341,29 +341,29 @@
             
         <item>
           <title>幻夢之謎：一樓課堂的隱藏訊息</title>
-          <link>http://localhost:1313/me/blog/250316/</link>
+          <link>https://alasutoru.github.io/me/blog/250316/</link>
           <pubDate>Sun, 16 Mar 2025 23:21:09 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250316/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250316/</guid>
           <description>夢境前半段，進入一條無盡的記憶迴廊，過往在眼前重現，一段段連貫，宛若一場深沉的旅行。那些似曾相識的場景，究竟是曾經真實記憶，還是潛意識幻象？
 後半段，場景轉換至一樓的神秘課堂。男女學員分列兩側並排坐二十餘人，氣氛熱絡卻又隱藏著一絲詭譎。我置身其中靜觀其變，試圖解開這場聚會的原因。這堂課究竟傳授著什麼？而這些人的真實身份在現實又是什麼？</description>
         </item>
             
         <item>
           <title>災難前兆：方盒的預言</title>
-          <link>http://localhost:1313/me/blog/250310/</link>
+          <link>https://alasutoru.github.io/me/blog/250310/</link>
           <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250310/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250310/</guid>
           <description>「家中的數據機故障。一股難以忽視的熱力，從它內部散發，彷彿在醞釀一場無聲的爆炸。仔細觀察，赫然發現，那數據機之上，竟出現一行行日文，訴說著即將降臨的災難。」</description>
         </item>
             
         <item>
           <title>如何運氣好</title>
-          <link>http://localhost:1313/me/blog/250201/</link>
+          <link>https://alasutoru.github.io/me/blog/250201/</link>
           <pubDate>Sat, 01 Feb 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250201/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250201/</guid>
           <description>我本身常常心想事成，所以分享給大家知道， 要「運氣好」或「幸運」並非被動等待好事降臨， 而是透過有意識的選擇、思維、言語和行為， 來「主動」創造你事物的真實面貌。 這個原理的產生是理解並應用生命的基本法則：
 你就是你真實面貌的創造者： ◦ 生命會依照你所認為的樣子展現給你。
 ◦ 你的思維、言語和行動會將你所認為的具體化，並帶入你的體驗中。當許多人想著同樣的事情，它很有可能會變成事實。
@@ -397,10 +397,10 @@
             
         <item>
           <title>除夕街上的意識轉位</title>
-          <link>http://localhost:1313/me/blog/250128/</link>
+          <link>https://alasutoru.github.io/me/blog/250128/</link>
           <pubDate>Tue, 28 Jan 2025 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/250128/</guid>
+          <guid>https://alasutoru.github.io/me/blog/250128/</guid>
           <description>除夕，我獨自走在城市的街道。
 空氣冷冽，人潮緩慢。
 但我心中，沒有絲毫孤獨。
@@ -420,10 +420,10 @@
             
         <item>
           <title>意識迴旋：編碼者的預言</title>
-          <link>http://localhost:1313/me/blog/240719/</link>
+          <link>https://alasutoru.github.io/me/blog/240719/</link>
           <pubDate>Fri, 19 Jul 2024 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/240719/</guid>
+          <guid>https://alasutoru.github.io/me/blog/240719/</guid>
           <description>曾幾何時，我總感覺——自己早已知曉未來。
 那是一種無以名狀的召喚，彷彿冥冥之中，有一個訊息等待被解讀。
 數年前，一個念頭如影隨形：我應該創造指標，來洞察市場的脈動。
@@ -443,10 +443,10 @@
             
         <item>
           <title>人力遺言：崩毀秩序中的倖存法則</title>
-          <link>http://localhost:1313/me/blog/240717/</link>
+          <link>https://alasutoru.github.io/me/blog/240717/</link>
           <pubDate>Wed, 17 Jul 2024 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/240717/</guid>
+          <guid>https://alasutoru.github.io/me/blog/240717/</guid>
           <description>未來的時間線已然被撕裂。
 當企業一間一間倒下、如骨牌般崩潰至臨界之量，
 勞動市場的幻象終於破滅——
@@ -464,10 +464,10 @@
             
         <item>
           <title>夢域封印：無法解碼的語言</title>
-          <link>http://localhost:1313/me/blog/240716/</link>
+          <link>https://alasutoru.github.io/me/blog/240716/</link>
           <pubDate>Tue, 16 Jul 2024 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/240716/</guid>
+          <guid>https://alasutoru.github.io/me/blog/240716/</guid>
           <description>在夢中，所有資訊都是被分裂的。
 你看見記憶的閃光，聽見語言的殘響，
 卻永遠無法將這兩者同時捕捉。
@@ -489,10 +489,10 @@
             
         <item>
           <title>如何知道自己保持神性</title>
-          <link>http://localhost:1313/me/blog/240711/</link>
+          <link>https://alasutoru.github.io/me/blog/240711/</link>
           <pubDate>Thu, 11 Jul 2024 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/240711/</guid>
+          <guid>https://alasutoru.github.io/me/blog/240711/</guid>
           <description>你的本質，從未因歲月改寫。
 不論環境善惡如何更替，
 他人如何對待你，讚揚或傷害，
@@ -514,10 +514,10 @@
             
         <item>
           <title>不能喝酒的緣由</title>
-          <link>http://localhost:1313/me/blog/240709/</link>
+          <link>https://alasutoru.github.io/me/blog/240709/</link>
           <pubDate>Tue, 09 Jul 2024 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/240709/</guid>
+          <guid>https://alasutoru.github.io/me/blog/240709/</guid>
           <description>昨夜，再次飲酒。
 彷彿忘記，自己曾立下的禁令。
 為何不能喝？記憶模糊如煙。
@@ -531,10 +531,10 @@
             
         <item>
           <title>頻率同調：分享如何讀心</title>
-          <link>http://localhost:1313/me/blog/240606/</link>
+          <link>https://alasutoru.github.io/me/blog/240606/</link>
           <pubDate>Thu, 06 Jun 2024 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/240606/</guid>
+          <guid>https://alasutoru.github.io/me/blog/240606/</guid>
           <description>人類本就擁有「讀心」能力，
 只不過大多數人從未啟用。
 它有方法開啟而且極其簡單。
@@ -571,10 +571,10 @@
             
         <item>
           <title>遙視記錄：月球意識中的歸返召喚</title>
-          <link>http://localhost:1313/me/blog/240401/</link>
+          <link>https://alasutoru.github.io/me/blog/240401/</link>
           <pubDate>Mon, 01 Apr 2024 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/240401/</guid>
+          <guid>https://alasutoru.github.io/me/blog/240401/</guid>
           <description>從月球上，第二次望見地球。
 那畫面熟悉而遙遠，像某種被喚醒的記憶。
 第一次，在某古老片段，
@@ -600,10 +600,10 @@
             
         <item>
           <title>無趣的學習也要考試</title>
-          <link>http://localhost:1313/me/blog/231210/</link>
+          <link>https://alasutoru.github.io/me/blog/231210/</link>
           <pubDate>Sun, 10 Dec 2023 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/231210/</guid>
+          <guid>https://alasutoru.github.io/me/blog/231210/</guid>
           <description>她坐得異常靠近，
 身體幾乎貼在我左側。
 語氣平靜，卻像某種提示程式啟動般，
@@ -631,10 +631,10 @@
             
         <item>
           <title>界域接觸：慶生與錯位景</title>
-          <link>http://localhost:1313/me/blog/231209/</link>
+          <link>https://alasutoru.github.io/me/blog/231209/</link>
           <pubDate>Sat, 09 Dec 2023 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/231209/</guid>
+          <guid>https://alasutoru.github.io/me/blog/231209/</guid>
           <description>許多人為我慶生，
 氣氛熱絡、笑聲交錯——
 但我不認識其中任何一個人。
@@ -668,10 +668,10 @@
             
         <item>
           <title>救援任務：維度扭轉的白晝裂口</title>
-          <link>http://localhost:1313/me/blog/231129/</link>
+          <link>https://alasutoru.github.io/me/blog/231129/</link>
           <pubDate>Wed, 29 Nov 2023 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/231129/</guid>
+          <guid>https://alasutoru.github.io/me/blog/231129/</guid>
           <description>我幻化成另一個外身，
 進入那片禁區，
 目標明確：解救與我同行的夥伴。
@@ -704,10 +704,10 @@
             
         <item>
           <title>地脈警告：神獸沉眠與任務的雙重壓力</title>
-          <link>http://localhost:1313/me/blog/231118/</link>
+          <link>https://alasutoru.github.io/me/blog/231118/</link>
           <pubDate>Sat, 18 Nov 2023 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/231118/</guid>
+          <guid>https://alasutoru.github.io/me/blog/231118/</guid>
           <description>受傷的神獸，
 蜷伏在深層洞窟之中。
 祂的氣息與大地脈動連結，
@@ -738,10 +738,10 @@
             
         <item>
           <title>異維度：黑衣使者與橋上之爭</title>
-          <link>http://localhost:1313/me/blog/231106/</link>
+          <link>https://alasutoru.github.io/me/blog/231106/</link>
           <pubDate>Mon, 06 Nov 2023 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/231106/</guid>
+          <guid>https://alasutoru.github.io/me/blog/231106/</guid>
           <description>她全身穿著黑色特裝，
 像是從另一個執行系統來的人。
 她走向我，語氣平穩而明確：
@@ -776,10 +776,10 @@
             
         <item>
           <title>靈域處理：妖氣升騰事件</title>
-          <link>http://localhost:1313/me/blog/231025/</link>
+          <link>https://alasutoru.github.io/me/blog/231025/</link>
           <pubDate>Wed, 25 Oct 2023 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/231025/</guid>
+          <guid>https://alasutoru.github.io/me/blog/231025/</guid>
           <description>紫色的妖氣，如浪潮般沖天而起。
 那不是霧，也不是煙，
 而是某種屬於另一界域的濃縮意志，
@@ -809,10 +809,10 @@
             
         <item>
           <title>神秘儀式：夜航任務中的記憶</title>
-          <link>http://localhost:1313/me/blog/231012/</link>
+          <link>https://alasutoru.github.io/me/blog/231012/</link>
           <pubDate>Thu, 12 Oct 2023 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/231012/</guid>
+          <guid>https://alasutoru.github.io/me/blog/231012/</guid>
           <description>那是夜晚的船，
 靜靜航行在無邊的水域上，
 沒有聲音，只有震盪極微的節奏感，
@@ -845,10 +845,10 @@
             
         <item>
           <title>封鎖：樓層測試</title>
-          <link>http://localhost:1313/me/blog/231004/</link>
+          <link>https://alasutoru.github.io/me/blog/231004/</link>
           <pubDate>Wed, 04 Oct 2023 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/231004/</guid>
+          <guid>https://alasutoru.github.io/me/blog/231004/</guid>
           <description>現場充滿壓力感。
 門口的兩位守衛者早已守候，
 試圖阻擋——但無法擊退。
@@ -861,10 +861,10 @@
             
         <item>
           <title>鏡中之面：初次顯影</title>
-          <link>http://localhost:1313/me/blog/230120/</link>
+          <link>https://alasutoru.github.io/me/blog/230120/</link>
           <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/230120/</guid>
+          <guid>https://alasutoru.github.io/me/blog/230120/</guid>
           <description>那是第一次，
 我在夢裡的鏡中，看見了自己。
 不是現在這具身體，
@@ -888,10 +888,10 @@
             
         <item>
           <title>地牢深處的前世殘影</title>
-          <link>http://localhost:1313/me/blog/230106/</link>
+          <link>https://alasutoru.github.io/me/blog/230106/</link>
           <pubDate>Fri, 06 Jan 2023 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/230106/</guid>
+          <guid>https://alasutoru.github.io/me/blog/230106/</guid>
           <description>被賣給一位身形龐大的男子，
 無由、無聲、無選擇。
 那不是交易，
@@ -942,10 +942,10 @@
             
         <item>
           <title>從他界甦醒的記憶探測</title>
-          <link>http://localhost:1313/me/blog/221212/</link>
+          <link>https://alasutoru.github.io/me/blog/221212/</link>
           <pubDate>Mon, 12 Dec 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/221212/</guid>
+          <guid>https://alasutoru.github.io/me/blog/221212/</guid>
           <description>那是一個黑暗的雨天，
 雨線密密，天空沉重如石。
 整個世界像被某種無聲的力量封鎖。
@@ -979,10 +979,10 @@
             
         <item>
           <title>靜默世界：黑暗不是缺乏，而是禁止</title>
-          <link>http://localhost:1313/me/blog/221202/</link>
+          <link>https://alasutoru.github.io/me/blog/221202/</link>
           <pubDate>Fri, 02 Dec 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/221202/</guid>
+          <guid>https://alasutoru.github.io/me/blog/221202/</guid>
           <description>這個世界很特別。
 它在整體結構上，幾乎與我所在的現實無異：
 人類、建築、氣候、語言、時間……
@@ -1019,10 +1019,10 @@
             
         <item>
           <title>定位打擊：妖體</title>
-          <link>http://localhost:1313/me/blog/221201/</link>
+          <link>https://alasutoru.github.io/me/blog/221201/</link>
           <pubDate>Thu, 01 Dec 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/221201/</guid>
+          <guid>https://alasutoru.github.io/me/blog/221201/</guid>
           <description>原本只是在選擇一個模型玩具，
 正在猶豫挑選之際，場景忽然切換。
 直接被轉移至學校空間。
@@ -1055,10 +1055,10 @@
             
         <item>
           <title>終末紀錄：曾經的世界</title>
-          <link>http://localhost:1313/me/blog/221023/</link>
+          <link>https://alasutoru.github.io/me/blog/221023/</link>
           <pubDate>Sun, 23 Oct 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/221023/</guid>
+          <guid>https://alasutoru.github.io/me/blog/221023/</guid>
           <description>那是一個已經不復存在的世界——
 我們稱它為「曾經」。
 當時，天際密布警告訊號。
@@ -1104,10 +1104,10 @@
             
         <item>
           <title> 光臨者預示：大地震即將抵達</title>
-          <link>http://localhost:1313/me/blog/221021/</link>
+          <link>https://alasutoru.github.io/me/blog/221021/</link>
           <pubDate>Fri, 21 Oct 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/221021/</guid>
+          <guid>https://alasutoru.github.io/me/blog/221021/</guid>
           <description>那是一艘小型飛碟，
 靜靜降落在我視野之外， 只有空氣的輕微擾動。 艙門打開， 走出一位中年女性，
 身體散發著不屬於地球的微光，
@@ -1122,10 +1122,10 @@
             
         <item>
           <title>限時：08:00之前的選擇</title>
-          <link>http://localhost:1313/me/blog/221014/</link>
+          <link>https://alasutoru.github.io/me/blog/221014/</link>
           <pubDate>Fri, 14 Oct 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/221014/</guid>
+          <guid>https://alasutoru.github.io/me/blog/221014/</guid>
           <description>一切從一間教室開始。
 我們都被分派到這個班上，
 沒有人能選擇是否參加——
@@ -1157,10 +1157,10 @@
             
         <item>
           <title>草質轉化：為我植入修復</title>
-          <link>http://localhost:1313/me/blog/221011/</link>
+          <link>https://alasutoru.github.io/me/blog/221011/</link>
           <pubDate>Tue, 11 Oct 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/221011/</guid>
+          <guid>https://alasutoru.github.io/me/blog/221011/</guid>
           <description>那是傍晚時分，某個邊界地帶，
 空氣清澈，周圍一片靜謐，
 女子為了答謝我，
@@ -1189,10 +1189,10 @@
             
         <item>
           <title>冥府編制：地獄上班</title>
-          <link>http://localhost:1313/me/blog/221002/</link>
+          <link>https://alasutoru.github.io/me/blog/221002/</link>
           <pubDate>Sun, 02 Oct 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/221002/</guid>
+          <guid>https://alasutoru.github.io/me/blog/221002/</guid>
           <description>直到某一刻我才明白，
 原來我工作的地方——是地獄。
 這裡不是傳說中燃燒與懲罰的場所，
@@ -1220,10 +1220,10 @@
             
         <item>
           <title>外星徵召：人類只是被使用的單位</title>
-          <link>http://localhost:1313/me/blog/220929/</link>
+          <link>https://alasutoru.github.io/me/blog/220929/</link>
           <pubDate>Thu, 29 Sep 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/220929/</guid>
+          <guid>https://alasutoru.github.io/me/blog/220929/</guid>
           <description>那艘太空船，又來了。
 它不是第一次出現，
 也絕不會是最後一次。
@@ -1252,10 +1252,10 @@
             
         <item>
           <title>識別事件：夢中的那句話</title>
-          <link>http://localhost:1313/me/blog/220821/</link>
+          <link>https://alasutoru.github.io/me/blog/220821/</link>
           <pubDate>Sun, 21 Aug 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/220821/</guid>
+          <guid>https://alasutoru.github.io/me/blog/220821/</guid>
           <description>多年來，
 進入過無數場夢境。
 有時是觀察者，有時是參與者，
@@ -1287,10 +1287,10 @@
             
         <item>
           <title>通關：工作前置測試</title>
-          <link>http://localhost:1313/me/blog/220817/</link>
+          <link>https://alasutoru.github.io/me/blog/220817/</link>
           <pubDate>Wed, 17 Aug 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/220817/</guid>
+          <guid>https://alasutoru.github.io/me/blog/220817/</guid>
           <description>在那之前，
 我進行了一段簡短而密集的身體訓練。
 準備完成，
@@ -1311,10 +1311,10 @@
             
         <item>
           <title>轉界站：可選擇的世界</title>
-          <link>http://localhost:1313/me/blog/220723/</link>
+          <link>https://alasutoru.github.io/me/blog/220723/</link>
           <pubDate>Sat, 23 Jul 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/220723/</guid>
+          <guid>https://alasutoru.github.io/me/blog/220723/</guid>
           <description>我站在那個地方，
 一處不屬於任何世界的邊界空間， 這裡沒有時間壓力， 我在等待—— 等待前往另一個世界。
 到了那個世界，
@@ -1337,10 +1337,10 @@
             
         <item>
           <title>水域封鎖：孤行任務</title>
-          <link>http://localhost:1313/me/blog/220626/</link>
+          <link>https://alasutoru.github.io/me/blog/220626/</link>
           <pubDate>Sun, 26 Jun 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/220626/</guid>
+          <guid>https://alasutoru.github.io/me/blog/220626/</guid>
           <description>這段記憶，非常清楚。
 即使在醒來後的世界中，
 每個細節像是昨日發生。
@@ -1387,10 +1387,10 @@
             
         <item>
           <title>皆無效：萬年龜任務</title>
-          <link>http://localhost:1313/me/blog/220519/</link>
+          <link>https://alasutoru.github.io/me/blog/220519/</link>
           <pubDate>Thu, 19 May 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/220519/</guid>
+          <guid>https://alasutoru.github.io/me/blog/220519/</guid>
           <description>牠站立著，
 那是一隻萬年以上壽命的龜形存在——
 巨大到超出比例。
@@ -1425,10 +1425,10 @@
             
         <item>
           <title>時序能力：拉回被槍殺的瞬間</title>
-          <link>http://localhost:1313/me/blog/220423/</link>
+          <link>https://alasutoru.github.io/me/blog/220423/</link>
           <pubDate>Sat, 23 Apr 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/220423/</guid>
+          <guid>https://alasutoru.github.io/me/blog/220423/</guid>
           <description>他在我眼前被槍擊倒下，
 那一刻，
 我啟動了——
@@ -1457,10 +1457,10 @@
             
         <item>
           <title>星際相遇：六百年的異星夜景</title>
-          <link>http://localhost:1313/me/blog/220224/</link>
+          <link>https://alasutoru.github.io/me/blog/220224/</link>
           <pubDate>Thu, 24 Feb 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/220224/</guid>
+          <guid>https://alasutoru.github.io/me/blog/220224/</guid>
           <description>我來到一顆高科技星球，
 這裡的文明遠超過我的理解範疇，
 結構、裝置，
@@ -1488,10 +1488,10 @@
             
         <item>
           <title>視域開啟：全境掌控</title>
-          <link>http://localhost:1313/me/blog/220217/</link>
+          <link>https://alasutoru.github.io/me/blog/220217/</link>
           <pubDate>Thu, 17 Feb 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/220217/</guid>
+          <guid>https://alasutoru.github.io/me/blog/220217/</guid>
           <description>場景啟動：
 我站在一座塔的最頂端。
 那裡極高，無法看清腳下的邊界，
@@ -1522,10 +1522,10 @@
             
         <item>
           <title>封鎖廢城：與那個女人</title>
-          <link>http://localhost:1313/me/blog/220206/</link>
+          <link>https://alasutoru.github.io/me/blog/220206/</link>
           <pubDate>Sun, 06 Feb 2022 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/220206/</guid>
+          <guid>https://alasutoru.github.io/me/blog/220206/</guid>
           <description>他們早早離開，
 不想上課，也不想等我，
 像是逃難般地先跑了。
@@ -1572,10 +1572,10 @@
             
         <item>
           <title>空間穿越：裂縫指引</title>
-          <link>http://localhost:1313/me/blog/211229/</link>
+          <link>https://alasutoru.github.io/me/blog/211229/</link>
           <pubDate>Wed, 29 Dec 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/211229/</guid>
+          <guid>https://alasutoru.github.io/me/blog/211229/</guid>
           <description>穿越有明確的規則。
 每隔三十步， 可以進行一次裂縫穿越。
 只能一次——
@@ -1611,10 +1611,10 @@
             
         <item>
           <title>記憶封印：她沒看上的人，卻是命定的他</title>
-          <link>http://localhost:1313/me/blog/211102/</link>
+          <link>https://alasutoru.github.io/me/blog/211102/</link>
           <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/211102/</guid>
+          <guid>https://alasutoru.github.io/me/blog/211102/</guid>
           <description>當他們在這一世再次相遇，
 那名男孩主動接近她，追求她，
 不是偶然，
@@ -1656,10 +1656,10 @@
             
         <item>
           <title>崩口之際：任務未緩，仍得上場</title>
-          <link>http://localhost:1313/me/blog/210903/</link>
+          <link>https://alasutoru.github.io/me/blog/210903/</link>
           <pubDate>Fri, 03 Sep 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210903/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210903/</guid>
           <description>低頭照見鏡中，
 牙齒一顆一顆鬆脫，
 咬合消失、下顎空虛，
@@ -1682,10 +1682,10 @@
             
         <item>
           <title>墜景之獵：追捕有名者</title>
-          <link>http://localhost:1313/me/blog/210819/</link>
+          <link>https://alasutoru.github.io/me/blog/210819/</link>
           <pubDate>Thu, 19 Aug 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210819/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210819/</guid>
           <description>從高空墜落，
 空氣摩擦之聲撕裂耳際，
 我從雲層中穿過，
@@ -1717,10 +1717,10 @@
             
         <item>
           <title>曾經的回音：人間事</title>
-          <link>http://localhost:1313/me/blog/210806/</link>
+          <link>https://alasutoru.github.io/me/blog/210806/</link>
           <pubDate>Fri, 06 Aug 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210806/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210806/</guid>
           <description>祂曾是我生命中的狗，
 名叫——吉米。
 早已離世，
@@ -1752,10 +1752,10 @@
             
         <item>
           <title>透視之眼：逃亡之房</title>
-          <link>http://localhost:1313/me/blog/210704/</link>
+          <link>https://alasutoru.github.io/me/blog/210704/</link>
           <pubDate>Sun, 04 Jul 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210704/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210704/</guid>
           <description>一座陽台房，
 窗戶不透明，
 毛玻璃結構，
@@ -1791,10 +1791,10 @@
             
         <item>
           <title>境之門：連結世界</title>
-          <link>http://localhost:1313/me/blog/210625/</link>
+          <link>https://alasutoru.github.io/me/blog/210625/</link>
           <pubDate>Fri, 25 Jun 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210625/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210625/</guid>
           <description>那是一扇不應該打開的小鎮之門。
 當它緩緩裂開時，
 我看見裡頭不是延續的街道，
@@ -1827,10 +1827,10 @@
             
         <item>
           <title>試煉：穿越者之柱</title>
-          <link>http://localhost:1313/me/blog/210529/</link>
+          <link>https://alasutoru.github.io/me/blog/210529/</link>
           <pubDate>Sat, 29 May 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210529/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210529/</guid>
           <description>這是一場分階段的測試。
 第一階段， 夢境本身，
 就是一個完整的測驗場。
@@ -1881,10 +1881,10 @@
             
         <item>
           <title>穿越之門：界限迷宮</title>
-          <link>http://localhost:1313/me/blog/210424/</link>
+          <link>https://alasutoru.github.io/me/blog/210424/</link>
           <pubDate>Sat, 24 Apr 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210424/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210424/</guid>
           <description>一切開始於的場景，
 是一個超現實場面，
 所有的色彩、光影，都在未知法則下運行。
@@ -1934,10 +1934,10 @@
             
         <item>
           <title>周朝統一後的前行</title>
-          <link>http://localhost:1313/me/blog/210418/</link>
+          <link>https://alasutoru.github.io/me/blog/210418/</link>
           <pubDate>Sun, 18 Apr 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210418/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210418/</guid>
           <description>在周朝統一後，
 一切似乎回到了秩序中，
 但那秩序的背後，卻是一片空虛與動盪。
@@ -1969,10 +1969,10 @@
             
         <item>
           <title>第三刻：夢魘之尾</title>
-          <link>http://localhost:1313/me/blog/210413/</link>
+          <link>https://alasutoru.github.io/me/blog/210413/</link>
           <pubDate>Tue, 13 Apr 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210413/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210413/</guid>
           <description>凌晨三點十五分。
 在這個時辰醒來，
 原因只有一個：
@@ -2006,10 +2006,10 @@
             
         <item>
           <title>巡審之神：三首裁決</title>
-          <link>http://localhost:1313/me/blog/210318/</link>
+          <link>https://alasutoru.github.io/me/blog/210318/</link>
           <pubDate>Thu, 18 Mar 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210318/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210318/</guid>
           <description>多重宇宙的秩序之中，
 每顆星球，皆配有其守護神。
 他們不只是象徵，
@@ -2046,10 +2046,10 @@
             
         <item>
           <title>平靜沉落：緩慢的終結之刻</title>
-          <link>http://localhost:1313/me/blog/210313/</link>
+          <link>https://alasutoru.github.io/me/blog/210313/</link>
           <pubDate>Sat, 13 Mar 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210313/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210313/</guid>
           <description>背後，
 突然一道沉重的貫穿。
 沉入我脊背。 緊接著，
@@ -2081,10 +2081,10 @@
             
         <item>
           <title>吞噬：重返時刻</title>
-          <link>http://localhost:1313/me/blog/210305/</link>
+          <link>https://alasutoru.github.io/me/blog/210305/</link>
           <pubDate>Fri, 05 Mar 2021 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/210305/</guid>
+          <guid>https://alasutoru.github.io/me/blog/210305/</guid>
           <description>鐵沙開始湧動，
 它們正逐層穿越空間，
 與另一顆星球的界面接合。
@@ -2126,10 +2126,10 @@
             
         <item>
           <title>年界曆：2114年</title>
-          <link>http://localhost:1313/me/blog/201125/</link>
+          <link>https://alasutoru.github.io/me/blog/201125/</link>
           <pubDate>Wed, 25 Nov 2020 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/201125/</guid>
+          <guid>https://alasutoru.github.io/me/blog/201125/</guid>
           <description>我回到 公元2114年。
 車內微震，窗外時代鋼骨林立。
 熟悉，卻也陌生。
@@ -2161,10 +2161,10 @@
             
         <item>
           <title>壞掉的相機的提醒</title>
-          <link>http://localhost:1313/me/blog/200709/</link>
+          <link>https://alasutoru.github.io/me/blog/200709/</link>
           <pubDate>Thu, 09 Jul 2020 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/200709/</guid>
+          <guid>https://alasutoru.github.io/me/blog/200709/</guid>
           <description>一同入鏡的那一刻，
 相機壞了。
 不是單純的損毀，
@@ -2190,10 +2190,10 @@
             
         <item>
           <title>黑氣之子：殺戮的源頭</title>
-          <link>http://localhost:1313/me/blog/200707/</link>
+          <link>https://alasutoru.github.io/me/blog/200707/</link>
           <pubDate>Tue, 07 Jul 2020 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/200707/</guid>
+          <guid>https://alasutoru.github.io/me/blog/200707/</guid>
           <description>那是在未記錄的朝代——
 一位身著華服的小孩，
 眉頭緊鎖，怒火滿胸。
@@ -2229,10 +2229,10 @@
             
         <item>
           <title>夢中殘頁：她的聲音</title>
-          <link>http://localhost:1313/me/blog/200609/</link>
+          <link>https://alasutoru.github.io/me/blog/200609/</link>
           <pubDate>Tue, 09 Jun 2020 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/200609/</guid>
+          <guid>https://alasutoru.github.io/me/blog/200609/</guid>
           <description>部隊生活平靜無聲，
 但在那日，
 我記得自己躺在右側的床位——
@@ -2263,10 +2263,10 @@
             
         <item>
           <title>速手：婚約之淚</title>
-          <link>http://localhost:1313/me/blog/200329/</link>
+          <link>https://alasutoru.github.io/me/blog/200329/</link>
           <pubDate>Sun, 29 Mar 2020 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/200329/</guid>
+          <guid>https://alasutoru.github.io/me/blog/200329/</guid>
           <description>女隊友，非常強。
 強到可以——
 空手接住子彈， 再在毫秒之間，
@@ -2303,10 +2303,10 @@
             
         <item>
           <title>夢境的真實功用</title>
-          <link>http://localhost:1313/me/blog/200328/</link>
+          <link>https://alasutoru.github.io/me/blog/200328/</link>
           <pubDate>Sat, 28 Mar 2020 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/200328/</guid>
+          <guid>https://alasutoru.github.io/me/blog/200328/</guid>
           <description>我看見了——
 人類為什麼會做夢，
 夢境之中為何總有那麼多人、那麼多場景、那麼多奇異的事件。
@@ -2340,10 +2340,10 @@
             
         <item>
           <title>能力歸返的代價</title>
-          <link>http://localhost:1313/me/blog/200327/</link>
+          <link>https://alasutoru.github.io/me/blog/200327/</link>
           <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/200327/</guid>
+          <guid>https://alasutoru.github.io/me/blog/200327/</guid>
           <description>我終於，
 向那個存在——
 曾在童年將我封印之力的外星人 低頭求助。
@@ -2374,10 +2374,10 @@
             
         <item>
           <title>穿越者的條件</title>
-          <link>http://localhost:1313/me/blog/200212/</link>
+          <link>https://alasutoru.github.io/me/blog/200212/</link>
           <pubDate>Wed, 12 Feb 2020 00:00:00 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/200212/</guid>
+          <guid>https://alasutoru.github.io/me/blog/200212/</guid>
           <description>我經歷了很多場穿越。 不是夢，也不是想像，
 而是意識真實移動的過程。
 我走進一扇門——
@@ -2408,10 +2408,10 @@
             
         <item>
           <title>前世：斷軀者的行跡</title>
-          <link>http://localhost:1313/me/blog/180926/</link>
+          <link>https://alasutoru.github.io/me/blog/180926/</link>
           <pubDate>Wed, 26 Sep 2018 23:21:09 +0800</pubDate>
           
-          <guid>http://localhost:1313/me/blog/180926/</guid>
+          <guid>https://alasutoru.github.io/me/blog/180926/</guid>
           <description>那人領我前往一具屍體。 他說，要讓我親眼看到——
 我是如何死亡的。
 那具身體頭部中央，
