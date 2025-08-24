@@ -7,9 +7,7 @@ menu:
     weight: 200
 ---
 
-## 這些都是我的最愛
-
-收集的．產出的．都放在這～
+##### 這些都是我的最愛
 
 {{< gallery-category >}}
     {{< gallery-photo fn="hugo1.jpg" caption="Clay figure of me" >}}
