@@ -2,11 +2,39 @@ baseURL = 'https://alasutoru.github.io/me/'
 languageCode = 'en-us'
 title = 'alasutoru'
 theme = 'notrack'
+hasCJKLanguage = true
+summaryLength = 70
+
+# --- Start of merged settings ---
+pagination.pagerSize = 5  # Posts per page, e.g. in the blog
 
 [params]
-author = 'alasutoru'
-# optional, defaults to author:
-siteHeading = 'alasutoru'
-mainSections = ['blog']
+  author = "alasutoru"
+  siteHeading = "alasutoru" # defaults to author
+  favicon = "hugo_grotius.png" # The small icon shown in browser tabs
+  showTaxonomyLinks = true  # Show e.g. a "Category" button at top of blog page
+  showBlogLatest = true  # Whether to show it or not
+  blogLatestHeading = "My writing"  # Heading above blog summary
+  nBlogLatest = 4  # Number of blog post in summary
+
+  [params.social]
+    github = "https://github.com/alasutoru"
+    email = "example@example.com"
+    mastodon = "example"
+    rss = "yes" # Re-enabling RSS icon
+
 [sitemap]
   changeFreq = 'hourly'
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tags = "tags"
+  categories = "categories"
+
+[permalinks]
+  blog = "/blog/:year/:month/:slug"
+# --- End of merged settings ---
+
+[markup.goldmark.renderer]
+  unsafe = true

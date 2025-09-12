@@ -21,7 +21,6 @@ nBlogLatest = 4  # Number of blog post in summary
 github = "https://github.com/alasutoru"
 email = "example@example.com"
 mastodon = "example"
-rss = "yes"
 
 [taxonomies]
 year = "year"
