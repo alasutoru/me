@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alasutoru.github.io/me/sitemap.xml

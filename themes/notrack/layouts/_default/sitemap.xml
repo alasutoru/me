@@ -1,19 +1,38 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {{ range .Data.Pages }}
-  {{ if not .Params.sitemap.exclude }}
+  {{- $pages := where .Site.Pages "Kind" "in" (slice "page" "section" "home" "taxonomy" "term") -}}
+  {{- $pages = where $pages "Params.sitemap.exclude" "ne" true -}}
+  {{- $pages = where $pages "RelPermalink" "not in" (slice "/month/" "/year/") -}}
+  {{- range $pages -}}
+  {{- if or (eq .Kind "page") (eq .Paginator.PageNumber 1) -}}
   <url>
-    <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
-    <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>{{ end }}{{ with .Sitemap.ChangeFreq }}
-    <changefreq>{{ . }}</changefreq>{{ end }}{{ if ge .Sitemap.Priority 0.0 }}
-    <priority>{{ .Sitemap.Priority }}</priority>{{ end }}{{ if .IsTranslated }}{{ range .Translations }}
+    <loc>{{ .Permalink }}</loc>
+    {{- if not .Lastmod.IsZero -}}
+    <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>
+    {{- end -}}
+    <changefreq>
+      {{- if .Params.sitemap.changefreq -}}
+        {{ .Params.sitemap.changefreq }}
+      {{- else if eq .Kind "home" -}}
+        daily
+      {{- else if eq .Kind "page" -}}
+        weekly
+      {{- else if or (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "term") -}}
+        weekly
+      {{- else -}}
+        monthly
+      {{- end -}}
+    </changefreq>
+    {{- if ge .Sitemap.Priority 0.0 -}}
+    <priority>{{ .Sitemap.Priority }}</priority>{{- end -}}
+    {{- if .IsTranslated -}}{{- range .Translations -}}
     <xhtml:link
                 rel="alternate"
                 hreflang="{{ .Lang }}"
                 href="{{ .Permalink }}"
-                />{{ end }}{{ end }}
+                />{{- end -}}{{- end }}
   </url>
-  {{ end }}
-  {{ end }}
+  {{- end -}}
+  {{- end -}}
 </urlset>

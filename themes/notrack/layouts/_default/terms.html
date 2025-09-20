@@ -1,0 +1,32 @@
+{{ define "head" }}
+    <title>{{ .Site.Title }} - {{ .Title }} </title>
+    <meta name="robots" content="noindex">
+    <link rel="stylesheet" type="text/css" href="{{ "css/fonts.css" | relURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ "css/fontawesome.css" | relURL }}">
+    {{ $style := resources.Get "css/styles.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}">
+    {{ with .Site.Params.favicon }}
+    <link rel="icon" href="{{ . | relURL }}">
+    {{ end }}
+    <meta charset="UTF-8">
+    <meta name="author" content="{{ .Site.Params.author }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ with .OutputFormats.Get "RSS" }}
+    <link rel="alternate" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}" />
+    {{ end }}
+{{ end }}
+
+{{ define "main" }}
+<main>
+    <h1>All {{ .Title }}</h1>
+
+    <ul>
+        {{ range .Data.Terms.ByCount }}
+        <li>
+            <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+            <span class="termlist-count">({{ .Count }})</span>
+        </li>
+        {{ end }}
+    </ul>
+</main>
+{{ end }}
