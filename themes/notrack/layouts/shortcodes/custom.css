@@ -1,0 +1,24 @@
+/* Custom styles for resume page */
+
+.resume-entry-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap; /* Allow wrapping on small screens */
+}
+
+.resume-entry .what {
+    font-family: FreeSans, sans-serif;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #333;
+    margin-right: 1em; /* Add space between title and date */
+}
+
+.resume-entry .resume-entry-data {
+    font-family: FreeSans, sans-serif;
+    font-size: 0.85em;
+    color: #666;
+    text-align: right;
+    flex-shrink: 0; /* Prevent date from shrinking */
+}

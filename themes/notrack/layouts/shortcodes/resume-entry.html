@@ -1,26 +1,27 @@
 <div class="resume-entry">
-    <!-- What the resume entry is about (degree program, work, etc.) -->
-    {{ with .Get "what" }}
-    <p class="what">{{ . }}</p>
-    {{ end }}
+    <div class="resume-entry-header">
+        <!-- What the resume entry is about (degree program, work, etc.) -->
+        {{ with .Get "what" }}
+        <span class="what">{{ . }}</span>
+        {{ end }}
 
-    {{ $where := false }}
-    {{ $when := false }}
+        {{ $where := .Get "where" }}
+        {{ $when := .Get "when" }}
 
-    {{/* Where was the thing you did? (e.g. Mozilla) */}}
-    {{ with .Get "where" }}{{ $where = . }}{{ end }}
-
-    {{/* When did you do it? (e.g. 2020) */}}
-    {{- with .Get "when" }}{{ $when = . }}{{ end }}
-
-    {{ if and $where $when }}
-    <p class="resume-entry-data"><span class="where">{{ $where }}</span> |
-    <span class="when">{{ $when }}</span></p>
-    {{ else if $where }}
-    <p class="resume-entry-data"><span class="where">{{ $where }}</span></p>
-    {{ else if $when }}
-    <p class="resume-entry-data"><span class="when">{{ $when }}</span></p>
-    {{ end }}
+        {{ if or $where $when }}
+        <span class="resume-entry-data">
+            {{ with $where }}
+            <span class="where">{{ . }}</span>
+            {{ end }}
+            {{ if and $where $when }}
+            <span class="separator">|</span>
+            {{ end }}
+            {{ with $when }}
+            <span class="when">{{ . }}</span>
+            {{ end }}
+        </span>
+        {{ end }}
+    </div>
 
     {{/* additional HTML under or as the entry */}}
     {{ if gt (len .Inner) 0 }}

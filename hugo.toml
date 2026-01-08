@@ -13,18 +13,13 @@ pagination.pagerSize = 5  # Posts per page, e.g. in the blog
   siteHeading = "alasutoru" # defaults to author
   favicon = "hugo_grotius.png" # The small icon shown in browser tabs
   showTaxonomyLinks = true  # Show e.g. a "Category" button at top of blog page
-  showBlogLatest = true  # Whether to show it or not
-  blogLatestHeading = "My writing"  # Heading above blog summary
+  showBlogLatest = false  # Whether to show it or not
+  blogLatestHeading = "事蹟"  # Heading above blog summary
   nBlogLatest = 4  # Number of blog post in summary
 
-  [params.social]
-    github = "https://github.com/alasutoru"
-    email = "example@example.com"
-    mastodon = "example"
-    rss = "yes" # Re-enabling RSS icon
-
 [sitemap]
-  changeFreq = 'hourly'
+  changefreq = "weekly"
+  priority = 0.5
 
 [taxonomies]
   year = "year"
@@ -38,3 +33,28 @@ pagination.pagerSize = 5  # Posts per page, e.g. in the blog
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[build]
+  [[build.processing]]
+    source = "assets/css/custom.css"
+    target = "css/custom.css"
+    [build.processing.vars]
+      color = "blue"
+
+# -- Main Menu --
+# By defining the menu here, we take full control from the theme.
+
+[[menu.main]] # 第一個連結：主頁
+  name = "主頁" # 顯示的文字
+  pageRef = "/" # 引用根目錄的 _index.md
+  weight = 10 # 順序
+
+[[menu.main]] # 第二個連結：關於
+  name = "關於" # 顯示的文字
+  pageRef = "/resume" # 引用 content/resume.md
+  weight = 20 # 順序
+
+[[menu.main]] # 第三個連結：信仰
+  name = "信仰" # 顯示的文字
+  pageRef = "/contact" # 引用 content/contact.md
+  weight = 30 # 順序
