@@ -1,3 +1,7 @@
+.hugo_build.lock
+styles.css.map
 .DS_Store
 img/.DS_Store
 blog/.DS_Store
+categories/.DS_Store
+tags/.DS_Store
